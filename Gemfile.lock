@@ -1,3 +1,9 @@
+PATH
+  remote: engines/zurb_mothership
+  specs:
+    zurb_mothership (0.0.1)
+      rails (~> 3.2.13)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -109,3 +115,4 @@ DEPENDENCIES
   sass-rails (~> 3.2.3)
   sqlite3
   uglifier (>= 1.0.3)
+  zurb_mothership!
